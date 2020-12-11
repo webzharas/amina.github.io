@@ -1,0 +1,18 @@
+.t1 {
+    width: 100%;
+    background: white;
+    color: white; 
+    border-spacing: 1px; 
+}
+td, th {
+ background: rgb(9, 169, 197); 
+ padding: 20px; 
+}
+h1 {
+    text-align: center;
+    color:blue;
+}
+.header {
+    color: blue;
+    font-size: 23px;
+}

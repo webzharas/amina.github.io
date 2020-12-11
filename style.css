@@ -1,0 +1,18 @@
+.paragraph {
+    font-size: 16px;
+    font-weight: 700;
+}
+body {
+    background-color: powderblue;
+}
+img {
+    display: block;
+    width: 500px;
+    margin: 0 auto;
+}
+
+.blue{
+    color:blue;
+}
+
+
